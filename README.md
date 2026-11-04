@@ -1,23 +1,13 @@
-# Rahim Rasa — academic website
+# Rahim Rasa — personal academic website
 
-A static website prepared for GitHub Pages, with an interactive research knowledge graph.
+This repository hosts the real homepage in `index.html`. `README.md` is only the GitHub repository guide; GitHub shows it on the Code tab, not as the published homepage.
 
-## Publish at rahimrasa.github.io
+## Publish
 
-1. Sign in to GitHub and choose the username `rahimrasa` (if available). If your GitHub username differs, your site URL will differ unless you configure a custom domain.
-2. Create a **public** repository named `rahimrasa.github.io` (exactly, if that is your GitHub username).
-3. Upload **the contents of this folder** to the repository root: `index.html`, `styles.css`, `script.js`, `knowledge-graph.html`, `evacuation_science_graph_data.json`, and the `assets` folder. Do not upload the parent folder as one nested directory.
-4. Go to repository **Settings → Pages → Build and deployment → Deploy from a branch**, select `main` and `/ (root)`, then Save.
-5. Wait a few minutes and visit https://rahimrasa.github.io/ .
+Upload the **contents** of this folder (not the ZIP) to the root of a public GitHub repository. Enable Settings → Pages → Deploy from a branch → main → /(root). For the GitHub account `RasaHub` and a repository named `rasarahim.github.io`, the default project site URL is `https://rasahub.github.io/rasarahim.github.io/`.
 
-## Edit before publishing
+The site includes `index.html`, `knowledge-graph.html`, and `assets/research-landscape.png`. The homepage uses only relative paths and works on a project Pages URL.
 
-- Add a verified institutional email and your ORCID, Google Scholar, and LinkedIn profiles in the Contact section.
-- Verify the exact titles, authors, years, and DOIs of your publications. The 2024 entry is explicitly a placeholder.
-- Optionally add a portrait photograph and downloadable CV.
-- The graph is a conceptual map, not an automatically computed citation network.
-- The homepage uses an optional Google Fonts stylesheet; without internet access, fallback fonts render automatically. The knowledge graph works locally.
+## Accuracy
 
-## Preview
-
-Double-click `index.html` in Windows Explorer. Click "Interactive knowledge graph" to explore the research network.
+Selected publications, affiliation and contact were checked against the official SKLFS profile and publisher pages in November 2026. Current/future project descriptions are explicitly marked as active development or proposed. Review personal details before publishing.

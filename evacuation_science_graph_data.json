@@ -1,0 +1,1320 @@
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "label": "Fire Safety Engineering",
+      "category": "Foundations",
+      "status": "established",
+      "color": "#b48aff",
+      "column": 0,
+      "order": 0,
+      "x": 125,
+      "y": 95,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n1",
+      "label": "Statistical Physics",
+      "category": "Foundations",
+      "status": "established",
+      "color": "#b48aff",
+      "column": 0,
+      "order": 1,
+      "x": 125,
+      "y": 149,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n2",
+      "label": "Complex Systems",
+      "category": "Foundations",
+      "status": "established",
+      "color": "#b48aff",
+      "column": 0,
+      "order": 2,
+      "x": 125,
+      "y": 203,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n3",
+      "label": "Cognitive Psychology",
+      "category": "Foundations",
+      "status": "established",
+      "color": "#b48aff",
+      "column": 0,
+      "order": 3,
+      "x": 125,
+      "y": 257,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n4",
+      "label": "Behavioral Decision Theory",
+      "category": "Foundations",
+      "status": "established",
+      "color": "#b48aff",
+      "column": 0,
+      "order": 4,
+      "x": 125,
+      "y": 311,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n5",
+      "label": "Cumulative Prospect Theory",
+      "category": "Foundations",
+      "status": "established",
+      "color": "#b48aff",
+      "column": 0,
+      "order": 5,
+      "x": 125,
+      "y": 365,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n6",
+      "label": "Risk Analysis",
+      "category": "Foundations",
+      "status": "established",
+      "color": "#b48aff",
+      "column": 0,
+      "order": 6,
+      "x": 125,
+      "y": 419,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n7",
+      "label": "Human Factors",
+      "category": "Foundations",
+      "status": "established",
+      "color": "#b48aff",
+      "column": 0,
+      "order": 7,
+      "x": 125,
+      "y": 473,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n8",
+      "label": "Transportation Science",
+      "category": "Foundations",
+      "status": "established",
+      "color": "#b48aff",
+      "column": 0,
+      "order": 8,
+      "x": 125,
+      "y": 527,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n9",
+      "label": "Pedestrian Dynamics",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 0,
+      "x": 375,
+      "y": 95,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n10",
+      "label": "Crowd Dynamics",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 1,
+      "x": 375,
+      "y": 149,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n11",
+      "label": "Staircase Evacuation",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 2,
+      "x": 375,
+      "y": 203,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n12",
+      "label": "Human–Obstacle Interaction",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 3,
+      "x": 375,
+      "y": 257,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n13",
+      "label": "Route Choice",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 4,
+      "x": 375,
+      "y": 311,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n14",
+      "label": "Multidirectional Flow",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 5,
+      "x": 375,
+      "y": 365,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n15",
+      "label": "Crowd Congestion",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 6,
+      "x": 375,
+      "y": 419,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n16",
+      "label": "Evacuation Time",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 7,
+      "x": 375,
+      "y": 473,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n17",
+      "label": "Movement Speed",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 8,
+      "x": 375,
+      "y": 527,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n18",
+      "label": "Pedestrian Flow",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 9,
+      "x": 375,
+      "y": 581,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n19",
+      "label": "Crowd Danger",
+      "category": "Established research",
+      "status": "established",
+      "color": "#4cb6ff",
+      "column": 1,
+      "order": 10,
+      "x": 375,
+      "y": 635,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n20",
+      "label": "Controlled Staircase Experiments",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 0,
+      "x": 625,
+      "y": 95.0,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n21",
+      "label": "Video Tracking",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 1,
+      "x": 625,
+      "y": 140.33333333333334,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n22",
+      "label": "PeTrack",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 2,
+      "x": 625,
+      "y": 185.66666666666669,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n23",
+      "label": "YOLO / ByteTrack",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 3,
+      "x": 625,
+      "y": 231.0,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n24",
+      "label": "Trajectory Reconstruction",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 4,
+      "x": 625,
+      "y": 276.33333333333337,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n25",
+      "label": "Statistical Inference",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 5,
+      "x": 625,
+      "y": 321.6666666666667,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n26",
+      "label": "Social Force Model",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 6,
+      "x": 625,
+      "y": 367.0,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n27",
+      "label": "Optimal Steps Model",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 7,
+      "x": 625,
+      "y": 412.33333333333337,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n28",
+      "label": "PDOSM",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 8,
+      "x": 625,
+      "y": 457.6666666666667,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n29",
+      "label": "Agent-Based Simulation",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 9,
+      "x": 625,
+      "y": 503.0,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n30",
+      "label": "JuPedSim",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 10,
+      "x": 625,
+      "y": 548.3333333333334,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n31",
+      "label": "Unity 3D",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 11,
+      "x": 625,
+      "y": 593.6666666666667,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n32",
+      "label": "Virtual Reality",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 12,
+      "x": 625,
+      "y": 639.0,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n33",
+      "label": "Eye-Tracking",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 13,
+      "x": 625,
+      "y": 684.3333333333334,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n34",
+      "label": "EEG",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 14,
+      "x": 625,
+      "y": 729.6666666666667,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n35",
+      "label": "Multimodal Fusion",
+      "category": "Methodologies",
+      "status": "active",
+      "color": "#45ded3",
+      "column": 2,
+      "order": 15,
+      "x": 625,
+      "y": 775.0,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n36",
+      "label": "Risk Perception",
+      "category": "Current research",
+      "status": "active",
+      "color": "#ffad69",
+      "column": 3,
+      "order": 0,
+      "x": 875,
+      "y": 95,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n37",
+      "label": "Cognitive Decision-Making",
+      "category": "Current research",
+      "status": "active",
+      "color": "#ffad69",
+      "column": 3,
+      "order": 1,
+      "x": 875,
+      "y": 149,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n38",
+      "label": "Dynamic Fire Environments",
+      "category": "Current research",
+      "status": "active",
+      "color": "#ffad69",
+      "column": 3,
+      "order": 2,
+      "x": 875,
+      "y": 203,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n39",
+      "label": "Smoke and Visibility",
+      "category": "Current research",
+      "status": "active",
+      "color": "#ffad69",
+      "column": 3,
+      "order": 3,
+      "x": 875,
+      "y": 257,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n40",
+      "label": "Social Influence",
+      "category": "Current research",
+      "status": "active",
+      "color": "#ffad69",
+      "column": 3,
+      "order": 4,
+      "x": 875,
+      "y": 311,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n41",
+      "label": "Cognitive Workload",
+      "category": "Current research",
+      "status": "active",
+      "color": "#ffad69",
+      "column": 3,
+      "order": 5,
+      "x": 875,
+      "y": 365,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n42",
+      "label": "Human–Crowd Interaction",
+      "category": "Current research",
+      "status": "active",
+      "color": "#ffad69",
+      "column": 3,
+      "order": 6,
+      "x": 875,
+      "y": 419,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n43",
+      "label": "VR Fire Evacuation",
+      "category": "Current research",
+      "status": "active",
+      "color": "#ffad69",
+      "column": 3,
+      "order": 7,
+      "x": 875,
+      "y": 473,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n44",
+      "label": "Cognitive State Estimation",
+      "category": "Current research",
+      "status": "active",
+      "color": "#ffad69",
+      "column": 3,
+      "order": 8,
+      "x": 875,
+      "y": 527,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n45",
+      "label": "Cognition-Driven Evacuation Models",
+      "category": "Future directions",
+      "status": "prospective",
+      "color": "#b6eb76",
+      "column": 4,
+      "order": 0,
+      "x": 1125,
+      "y": 95,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n46",
+      "label": "Adaptive Evacuation Guidance",
+      "category": "Future directions",
+      "status": "prospective",
+      "color": "#b6eb76",
+      "column": 4,
+      "order": 1,
+      "x": 1125,
+      "y": 149,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n47",
+      "label": "Cognitive Digital Twins",
+      "category": "Future directions",
+      "status": "prospective",
+      "color": "#b6eb76",
+      "column": 4,
+      "order": 2,
+      "x": 1125,
+      "y": 203,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n48",
+      "label": "AI-Assisted Evacuation",
+      "category": "Future directions",
+      "status": "prospective",
+      "color": "#b6eb76",
+      "column": 4,
+      "order": 3,
+      "x": 1125,
+      "y": 257,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n49",
+      "label": "Human–Robot Interaction",
+      "category": "Future directions",
+      "status": "prospective",
+      "color": "#b6eb76",
+      "column": 4,
+      "order": 4,
+      "x": 1125,
+      "y": 311,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n50",
+      "label": "Real-Time Risk Prediction",
+      "category": "Future directions",
+      "status": "prospective",
+      "color": "#b6eb76",
+      "column": 4,
+      "order": 5,
+      "x": 1125,
+      "y": 365,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n51",
+      "label": "Smart Building Evacuation",
+      "category": "Future directions",
+      "status": "prospective",
+      "color": "#b6eb76",
+      "column": 4,
+      "order": 6,
+      "x": 1125,
+      "y": 419,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n52",
+      "label": "WUI Evacuation",
+      "category": "Future directions",
+      "status": "prospective",
+      "color": "#b6eb76",
+      "column": 4,
+      "order": 7,
+      "x": 1125,
+      "y": 473,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n53",
+      "label": "Explainable Emergency AI",
+      "category": "Future directions",
+      "status": "prospective",
+      "color": "#b6eb76",
+      "column": 4,
+      "order": 8,
+      "x": 1125,
+      "y": 527,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n54",
+      "label": "Impact of Temporary Obstacles on Emergency Evacuation Systems in Building Staircases",
+      "category": "Publications",
+      "status": "documented",
+      "color": "#ff8fb8",
+      "column": 5,
+      "order": 0,
+      "x": 1375,
+      "y": 95,
+      "description": "Research publication / thesis record. Verify bibliographic metadata before citation."
+    },
+    {
+      "id": "n55",
+      "label": "Gender and Composition Effects on Pedestrian Dynamics in Multidirectional Flow",
+      "category": "Publications",
+      "status": "submitted (2025)",
+      "color": "#ff8fb8",
+      "column": 5,
+      "order": 1,
+      "x": 1375,
+      "y": 149,
+      "description": "Research publication / thesis record. Verify bibliographic metadata before citation."
+    },
+    {
+      "id": "n56",
+      "label": "Prospect-Driven Optimal Steps Model for Human–Obstacle Interaction on Stairways",
+      "category": "Publications",
+      "status": "PhD thesis",
+      "color": "#ff8fb8",
+      "column": 5,
+      "order": 2,
+      "x": 1375,
+      "y": 203,
+      "description": "Research publication / thesis record. Verify bibliographic metadata before citation."
+    },
+    {
+      "id": "n57",
+      "label": "Expert Systems with Applications",
+      "category": "Journals",
+      "status": "reported publication venue",
+      "color": "#f5ca80",
+      "column": 6,
+      "order": 0,
+      "x": 1625,
+      "y": 95,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n58",
+      "label": "Journal of Statistical Mechanics",
+      "category": "Journals",
+      "status": "journal of interest; publication not verified",
+      "color": "#f5ca80",
+      "column": 6,
+      "order": 1,
+      "x": 1625,
+      "y": 149,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n59",
+      "label": "Journal of Building Engineering",
+      "category": "Journals",
+      "status": "reported publication venue",
+      "color": "#f5ca80",
+      "column": 6,
+      "order": 2,
+      "x": 1625,
+      "y": 203,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n60",
+      "label": "Safety Science",
+      "category": "Journals",
+      "status": "journal of interest; publication not verified",
+      "color": "#f5ca80",
+      "column": 6,
+      "order": 3,
+      "x": 1625,
+      "y": 257,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n61",
+      "label": "Fire Safety Journal",
+      "category": "Journals",
+      "status": "journal of interest; publication not verified",
+      "color": "#f5ca80",
+      "column": 6,
+      "order": 4,
+      "x": 1625,
+      "y": 311,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n62",
+      "label": "Building and Environment",
+      "category": "Journals",
+      "status": "journal of interest; publication not verified",
+      "color": "#f5ca80",
+      "column": 6,
+      "order": 5,
+      "x": 1625,
+      "y": 365,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n63",
+      "label": "Physica A",
+      "category": "Journals",
+      "status": "journal of interest; publication not verified",
+      "color": "#f5ca80",
+      "column": 6,
+      "order": 6,
+      "x": 1625,
+      "y": 419,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n64",
+      "label": "Transportation Research Part C",
+      "category": "Journals",
+      "status": "journal of interest; publication not verified",
+      "color": "#f5ca80",
+      "column": 6,
+      "order": 7,
+      "x": 1625,
+      "y": 473,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n65",
+      "label": "Transportation Research Part F",
+      "category": "Journals",
+      "status": "journal of interest; publication not verified",
+      "color": "#f5ca80",
+      "column": 6,
+      "order": 8,
+      "x": 1625,
+      "y": 527,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    },
+    {
+      "id": "n66",
+      "label": "Reliability Engineering & System Safety",
+      "category": "Journals",
+      "status": "journal of interest; publication not verified",
+      "color": "#f5ca80",
+      "column": 6,
+      "order": 9,
+      "x": 1625,
+      "y": 581,
+      "description": "Conceptual connection within the researcher’s scientific landscape; not a bibliometric measurement."
+    }
+  ],
+  "edges": [
+    {
+      "source": "n9",
+      "target": "n1",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n9",
+      "target": "n2",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n9",
+      "target": "n10",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n9",
+      "target": "n17",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n9",
+      "target": "n18",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n9",
+      "target": "n26",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n9",
+      "target": "n27",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n9",
+      "target": "n20",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n11",
+      "target": "n12",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n11",
+      "target": "n13",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n11",
+      "target": "n16",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n11",
+      "target": "n20",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n11",
+      "target": "n28",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n11",
+      "target": "n21",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n12",
+      "target": "n5",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n12",
+      "target": "n28",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n12",
+      "target": "n13",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n12",
+      "target": "n54",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n28",
+      "target": "n27",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n28",
+      "target": "n5",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n28",
+      "target": "n37",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n28",
+      "target": "n56",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n10",
+      "target": "n15",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n10",
+      "target": "n19",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n10",
+      "target": "n14",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n10",
+      "target": "n29",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n10",
+      "target": "n42",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n14",
+      "target": "n55",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n14",
+      "target": "n26",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n21",
+      "target": "n22",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n21",
+      "target": "n23",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n21",
+      "target": "n24",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n24",
+      "target": "n25",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n24",
+      "target": "n29",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n24",
+      "target": "n30",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n32",
+      "target": "n31",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n32",
+      "target": "n43",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n32",
+      "target": "n33",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n32",
+      "target": "n34",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n32",
+      "target": "n42",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n43",
+      "target": "n38",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n43",
+      "target": "n39",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n43",
+      "target": "n36",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n43",
+      "target": "n37",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n33",
+      "target": "n36",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n33",
+      "target": "n41",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n33",
+      "target": "n35",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n34",
+      "target": "n41",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n34",
+      "target": "n35",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n34",
+      "target": "n44",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n35",
+      "target": "n44",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n35",
+      "target": "n45",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n36",
+      "target": "n4",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n36",
+      "target": "n3",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n36",
+      "target": "n37",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n36",
+      "target": "n39",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n36",
+      "target": "n45",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n37",
+      "target": "n13",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n37",
+      "target": "n40",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n37",
+      "target": "n45",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n37",
+      "target": "n46",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n45",
+      "target": "n47",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n45",
+      "target": "n48",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n45",
+      "target": "n50",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n48",
+      "target": "n46",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n48",
+      "target": "n53",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n48",
+      "target": "n51",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n42",
+      "target": "n49",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n42",
+      "target": "n40",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n52",
+      "target": "n6",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n52",
+      "target": "n8",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n52",
+      "target": "n50",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n54",
+      "target": "n57",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n55",
+      "target": "n58",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n0",
+      "target": "n38",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n0",
+      "target": "n39",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n0",
+      "target": "n61",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n0",
+      "target": "n60",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n0",
+      "target": "n51",
+      "reason": "Thematic or methodological relationship",
+      "kind": "proposed"
+    },
+    {
+      "source": "n13",
+      "target": "n65",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n13",
+      "target": "n64",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n29",
+      "target": "n63",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n29",
+      "target": "n30",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n6",
+      "target": "n66",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    },
+    {
+      "source": "n7",
+      "target": "n62",
+      "reason": "Thematic or methodological relationship",
+      "kind": "conceptual"
+    }
+  ]
+}
